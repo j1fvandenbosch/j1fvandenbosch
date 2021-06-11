@@ -23,6 +23,9 @@
 -
 - 📫 How to reach me is via email at john.vandenbosch(at)outlook.com
 
+
+Let's do something together
+
 <!---
 j1fvandenbosch/j1fvandenbosch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
